@@ -1,7 +1,7 @@
 # Task-Management-System
 
 Overview
------
+--------
 
 - This is a simple but effective task management system. 
 - To use the app, user should register his account. 
@@ -42,6 +42,10 @@ Development process
 - All the tasks of a user is sorted in ascending order of due date and time. Then, all the tasks data are shown.
 
 - When a user use  filter by status, filtered tasks are also sorted in ascending order of due date and time. Then, the filtered tasks are shown.
+
+
+
+
 
 
 
