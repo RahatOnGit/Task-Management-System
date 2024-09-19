@@ -3,7 +3,7 @@
 About
 -----
 
-- This is a simple Task Management web Application.
+-- This is a simple Task Management web Application.
 - The user need to register for using the application.
 - Only authenticated users can create, read, update and delete tasks.
 - An user can only read, update and delete his own tasks.
