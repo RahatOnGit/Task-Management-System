@@ -3,8 +3,8 @@
 Overview
 -----
 
-. This is a simple but effective task management system. 
-. To use the app, user should register his account. 
+- This is a simple but effective task management system. 
+- To use the app, user should register his account. 
 After registartion, user can use the web app after providing valid email address and password. 
 User can add new tasks. 
 To add a new task, user should provide due date and time.
