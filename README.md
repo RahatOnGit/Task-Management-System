@@ -27,7 +27,7 @@ Database: MySQL
 Development process
 -------------------
 
-- The user registration, login and logout are handled by Laravel Breeze (for web) and Laravel Sanctum (for API) packages.
+- The user registration, login and logout are handled by Breeze (for web) and Sanctum (for API) packages.
 
 - For storing all the tasks data, I have created a table named 'all_tasks'.
 
