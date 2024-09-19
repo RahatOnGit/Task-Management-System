@@ -3,7 +3,7 @@
 About
 -----
 
-- This is a simple Task Management Application.
+- This is a simple Task Management web Application.
 - The user need to register for using the application.
 - Only authenticated users can create, read, update and delete tasks.
 - An user can only read, update and delete his own tasks.
@@ -19,3 +19,12 @@ Backend: Php, Laravel, Laravel Rest API
 Frontend: HTML, CSS, Javascript, BootStrap
 
 Database: MySQL
+
+
+API Development
+---------------
+
+ For the interaction with other applications, an API for the Task Management System has also been developed.
+ 
+- Route for the API: https://github.com/RahatOnGit/Task-Management-System/blob/main/routes/api.php
+- Controller for the API: https://github.com/RahatOnGit/Task-Management-System/blob/main/app/Http/Controllers/TaskApiController.php
