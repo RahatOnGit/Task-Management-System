@@ -1,0 +1,1 @@
+<?php echo $__env->make('home.index', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\laravel-project\TaskManagementSystem\resources\views/about.blade.php ENDPATH**/ ?>
