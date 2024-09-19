@@ -32,7 +32,7 @@ API Development
 Simple Demo:
 -------------
 
-* Donor side:
+*     Home Page
 
 ![home](https://github.com/user-attachments/assets/b7650127-3e0a-4c00-be78-a423fcd68b8b)
 ![register](https://github.com/user-attachments/assets/93f90390-aa10-4a8e-ad8e-bf2377e8611e)
