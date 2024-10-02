@@ -1,4 +1,4 @@
-# Kajer ShomoySuchi
+# Kormo Suchi
 
 About
 -----
