@@ -14,7 +14,7 @@ About
 Technologies used here are
 ---------------------------
 
-Backend: Php, Laravel, Laravel Rest API
+Backend: Php, Laravel, Laravel REST API
 
 Frontend: HTML, CSS, Javascript, BootStrap
 
